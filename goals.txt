@@ -1,0 +1,3 @@
+﻿1. api owasp top 10
+2. goat which has vulnerabilities
+
